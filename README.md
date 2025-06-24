@@ -1,6 +1,6 @@
 ## Enhancing Long-Term Memory in Federated Class Continual Learning with Lightweight Adapters
 PyTorch code for Neurocomputing paper:Enhancing Long-Term Memory in Federated Class Continual Learning with Lightweight Adapters
-
+The code of the paper will be released after acceptance.
 ### Prerequisite
 * python == 3.9
 * torch == 1.13.1
